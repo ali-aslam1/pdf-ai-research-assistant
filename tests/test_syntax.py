@@ -1,3 +1,3 @@
 # Syntax error: missing colon
-def test_syntax_error()
+def test_syntax_error():
     pass
